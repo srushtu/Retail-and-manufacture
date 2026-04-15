@@ -28,6 +28,8 @@ Customer segmentation (VIP, Loyal, At-Risk)
 Monthly revenue trends and seasonality
 Manufacturing output and efficiency insights
 
+Link:https://www.kaggle.com/code/srushtivbhoi/retail-and-manufacture
+
 🎯 Objectives
 Improve decision-making using data-driven insights
 Identify high-value customers and products
