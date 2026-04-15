@@ -34,12 +34,6 @@ Identify high-value customers and products
 Optimize sales and manufacturing performance
 Build interactive analytics dashboard experience
 
-📷 Sample Visuals
-Revenue trend line charts 📈
-Category-wise bar charts 📦
-Regional sales heatmaps 🌍
-Customer segmentation pie charts 👥
-
 📌 Future Improvements
 Deployment using Streamlit or Dash
 Real-time data integration
